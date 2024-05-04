@@ -1,4 +1,4 @@
-module github.com/vnscriptkid/LLD-fluency/state-machine-door-v3
+module github.com/vnscriptkid/LLD-fluency/state-machine-door-v4
 
 go 1.22.1
 
